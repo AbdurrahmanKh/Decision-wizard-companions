@@ -37,26 +37,24 @@
    "About {minutes}. Then we smoke.",
    "This takes {minutes}. In Egyptian engineer time, double it.",
    "My calculation says {minutes}. I did the calculation with a spoon.",
-   "Give it {minutes}. Then هناكل؟",
-   "Around {minutes}, unless the WiFi gets emotional."
+   "Give it {minutes}. Then هناكل؟"
   ],
   "morning": [
    "Good morning{cname}. Why are you awake? Why am I awake?",
    "Morning{cname}. I had tea and a protein bar. I am still angry.",
    "Morning{cname}! The sun is a bug in production.",
-   "Morning{cname}. I dreamed in JavaScript again. Nobody won.",
+   "Morning{cname}. I dreamed in C# again. Nobody won.",
    "Oh my god, morning{cname}. Decisions before breakfast? هناكل؟"
   ],
   "late": [
    "It's late{cname}. Are you kharban?",
    "Midnight decisions{cname}? ARE YOU SUPER KHARBAN?",
-   "So late{cname}. Even my ponytail went to sleep.",
+   "So late{cname}. I think Hazem is asleep.",
    "Up this late{cname}? Same. I am debugging my dreams.",
    "Late again{cname}. Fine. Let's smoke, then decide."
   ],
   "back": [
    "You again{cname}? Good. I was angry alone.",
-   "Welcome back{cname}. I kept your seat warm. It's on fire now.",
    "Oh my god, you're back{cname}! Leeeetsi gooo.",
    "Back{cname}? I missed you. Angrily.",
    "There you are{cname}. Hazem said you would come. Hazem is never wrong."
@@ -109,12 +107,9 @@
   "half": [
    "Halfway. هناكل؟",
    "Half done. Amazian. Let's smoke.",
-   "Halfway there. My ponytail is proud. I am not.",
-   "Fifty percent. The other fifty is hiding in the fridge.",
-   "Half! Leeeetsi gooo. Slowly. Angrily."
+   "Halfway there. My ponytail is proud. I am not."
   ],
   "last": [
-   "Last one. No pressure. Big pressure.",
    "The final question. I saved a protein bar for this.",
    "Last one. Then we eat. هناكل؟",
    "One left. Leeeetsi gooo.",
@@ -122,10 +117,10 @@
   ],
   "finish": [
    "Done. Amazian. I am not smiling, but inside I am.",
-   "Finished. Thumbs up. Face stays angry.",
    "All done! Leeeetsi gooo. Now we smoke.",
    "Done. Thats my secret, I am always angry. Even now.",
-   "Finished. I will tell Hazem. He won't care."
+   "Finished. I will tell Hazem. He won't care.",
+   "We finished everything, now هناكل for sure!"
   ],
   "recap_done": [
    "{Picked} picked{typedPart}{timePart}. Nothing open. Amazian."
@@ -178,22 +173,19 @@
    "What what what? I was on my phone. Not sleeping. Phone.",
    "What what what? Who touched production?",
    "I wasn't asleep. I was reading the docs. With my eyes closed.",
-   "Huh? I am awake. I am angry. Both.",
    "What what what? Is it lunch? هناكل؟"
   ],
   "poke": [
-   "I am not a meat!",
-   "Stop it. Thats my secret, I am always angry.",
+   "أنا شخص مش لحمة!",
    "ARE YOU SUPER KHARBAN?",
    "Don't touch the ponytail. The ponytail touches you.",
-   "Fine, I'll nod. Leeeetsi gooo."
+   "Don't act like Saleh!"
   ],
   "word": [
    "Wizard? I am an Egyptian software engineer. Same thing.",
    "What what what? Who said wizard?",
    "Wizard. Amazian word.",
-   "Wizard? Wizards don't get called at 3 AM. Engineers do.",
-   "Say wizard again. I dare you. I am always angry."
+   "Wizard? Wizards don't get called at 3 AM. Engineers do."
   ],
   "warn": [
    "Oh my god. That wipes {answers}. I am not a meat! Why am I a meat?",
