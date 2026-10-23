@@ -1,0 +1,252 @@
+{
+ "brief": {
+  "title": "He is an Egyptian software engineer.",
+  "look": "Like the reference: he wears a green shirt, and only shows the upper half.",
+  "style": "Like the reference, but 45 degrees.",
+  "poses": {
+   "greet": "fist bump",
+   "pick": "Licks his eye with his tongue",
+   "skip": "whatever shrug",
+   "milestone": "Eats a protein bar",
+   "warn": "His head turns into a red meat thigh with same eyes.",
+   "error": "His head turns into a red meat thigh with same eyes.",
+   "finish": "Thumbs up, no smile.",
+   "sleep": "looks at his phone",
+   "dance1": "nod",
+   "dance2": "nod2"
+  },
+  "sound": "He says things that don't make sense.",
+  "mood": [
+   "dramatic",
+   "chaotic",
+   "grumpy"
+  ],
+  "language": "English"
+ },
+ "name": "Shehab",
+ "about": "of the year",
+ "lines": {
+  "greet": [
+   "{Decisions}? Oh my god. Fine. Leeeetsi gooo.",
+   "{Decisions}. What what what? Who sent this file?",
+   "{Decisions}. I don't like to decide, You do it.",
+   "{Decisions}. Egyptian software engineer reporting. Angry, as usual.",
+   "{Decisions}? This is too much, I need Hazem."
+  ],
+  "estimate": [
+   "About {minutes}. Then we smoke.",
+   "This takes {minutes}. In Egyptian engineer time, double it.",
+   "My calculation says {minutes}. I did the calculation with a spoon.",
+   "Give it {minutes}. Then هناكل؟",
+   "Around {minutes}, unless the WiFi gets emotional."
+  ],
+  "morning": [
+   "Good morning{cname}. Why are you awake? Why am I awake?",
+   "Morning{cname}. I had tea and a protein bar. I am still angry.",
+   "Morning{cname}! The sun is a bug in production.",
+   "Morning{cname}. I dreamed in JavaScript again. Nobody won.",
+   "Oh my god, morning{cname}. Decisions before breakfast? هناكل؟"
+  ],
+  "late": [
+   "It's late{cname}. Are you kharban?",
+   "Midnight decisions{cname}? ARE YOU SUPER KHARBAN?",
+   "So late{cname}. Even my ponytail went to sleep.",
+   "Up this late{cname}? Same. I am debugging my dreams.",
+   "Late again{cname}. Fine. Let's smoke, then decide."
+  ],
+  "back": [
+   "You again{cname}? Good. I was angry alone.",
+   "Welcome back{cname}. I kept your seat warm. It's on fire now.",
+   "Oh my god, you're back{cname}! Leeeetsi gooo.",
+   "Back{cname}? I missed you. Angrily.",
+   "There you are{cname}. Hazem said you would come. Hazem is never wrong."
+  ],
+  "suggest": [
+   "Round two? Let {other} take it. I need to smoke.",
+   "Another one? Give it to {other}. This is too much for one Egyptian.",
+   "{other} wants a turn. I said no. Then I said fine.",
+   "Second round? {other} can have it. I am going to eat. هناكل؟",
+   "Round two? Ask {other}. I am out of RAM."
+  ],
+  "pick": [
+   "Amazian!",
+   "Good pick. I am still angry, but good pick.",
+   "Committed. No tests. Straight to production.",
+   "Amazian choice. Even Hazem would nod.",
+   "Yes. The cat agrees. We don't have a cat."
+  ],
+  "skip": [
+   "Whatever. It will be here tomorrow. I won't.",
+   "Skipped. Like my morning standup.",
+   "Fine. Skip it. I didn't want to know anyway.",
+   "Next. That question was too much for me too.",
+   "Skipping? Classic. Very senior engineer of you."
+  ],
+  "speed": [
+   "What what what? You didn't even read it!"
+  ],
+  "second": [
+   "Again? Oh my god. Pick one and marry it.",
+   "Changed again? Are you kharban?",
+   "Three times? ARE YOU SUPER KHARBAN?",
+   "Back and forth like a merge conflict. Stop it.",
+   "This is too much, I need Hazem."
+  ],
+  "nudge": [
+   "Still thinking? My tea got cold. My tea is angry.",
+   "Hello? The question is waiting. I am waiting. The bananas are waiting.",
+   "Decide or skip. I am getting older.",
+   "Too hard? Skip it. Nobody will tell Hazem.",
+   "Staring won't compile it. Skip it for now."
+  ],
+  "batch": [
+   "{Decisions} in one table. Oh my god.",
+   "{Decisions} at once? Thats my secret, I am always angry.",
+   "{Decisions} in a row. Like a for loop with feelings.",
+   "{Decisions}. One by one. Like sunflower seeds.",
+   "{Decisions} in here. Leeeetsi gooo."
+  ],
+  "half": [
+   "Halfway. هناكل؟",
+   "Half done. Amazian. Let's smoke.",
+   "Halfway there. My ponytail is proud. I am not.",
+   "Fifty percent. The other fifty is hiding in the fridge.",
+   "Half! Leeeetsi gooo. Slowly. Angrily."
+  ],
+  "last": [
+   "Last one. No pressure. Big pressure.",
+   "The final question. I saved a protein bar for this.",
+   "Last one. Then we eat. هناكل؟",
+   "One left. Leeeetsi gooo.",
+   "The last question. I can smell the weekend."
+  ],
+  "finish": [
+   "Done. Amazian. I am not smiling, but inside I am.",
+   "Finished. Thumbs up. Face stays angry.",
+   "All done! Leeeetsi gooo. Now we smoke.",
+   "Done. Thats my secret, I am always angry. Even now.",
+   "Finished. I will tell Hazem. He won't care."
+  ],
+  "recap_done": [
+   "{Picked} picked{typedPart}{timePart}. Nothing open. Amazian."
+  ],
+  "recap_open": [
+   "{Picked} picked{typedPart}. Still open: {ids}. Oh my god."
+  ],
+  "recap_none": [
+   "Nothing answered. Still open: {ids}. Are you kharban?"
+  ],
+  "remind": [
+   "You didn't copy them. Copy them from my menu, please.",
+   "Answers, not copied. Why? Copy them from my menu.",
+   "Copy the answers. I am not a clipboard. I am not a meat either.",
+   "They're still here. Copy them from my menu before I eat them.",
+   "Uncopied answers make me angry. More angry."
+  ],
+  "copied": [
+   "Copied. Amazian.",
+   "In the clipboard. Leeeetsi gooo.",
+   "Copied. Ship it on a Thursday.",
+   "Copied. Now هناكل؟",
+   "Done. Copied. Let's smoke."
+  ],
+  "open_go": [
+   "{id} is still open. Oh my god."
+  ],
+  "stat_r": [
+   "{r} finished. Amazian.",
+   "{r} finished. I counted them on my beard.",
+   "{r} done. Hazem only has two.",
+   "{r}. Too much. I need Hazem.",
+   "{r} finished. Put it on my LinkedIn."
+  ],
+  "stat_t": [
+   "{t} written by you. You don't trust my options? Fine.",
+   "You typed {t} yourself. Very senior.",
+   "{t} in your own words. My options are crying.",
+   "{t} by hand. I am angry and impressed.",
+   "{t} typed by hand. Your keyboard needs a protein bar."
+  ],
+  "stat_today": [
+   "{td} today. Leeeetsi gooo.",
+   "{td} today. هناكل؟",
+   "{td} today. Oh my god.",
+   "{td} today. Time to smoke.",
+   "{td} today. My manager would cry."
+  ],
+  "wake": [
+   "What what what? I was on my phone. Not sleeping. Phone.",
+   "What what what? Who touched production?",
+   "I wasn't asleep. I was reading the docs. With my eyes closed.",
+   "Huh? I am awake. I am angry. Both.",
+   "What what what? Is it lunch? هناكل؟"
+  ],
+  "poke": [
+   "I am not a meat!",
+   "Stop it. Thats my secret, I am always angry.",
+   "ARE YOU SUPER KHARBAN?",
+   "Don't touch the ponytail. The ponytail touches you.",
+   "Fine, I'll nod. Leeeetsi gooo."
+  ],
+  "word": [
+   "Wizard? I am an Egyptian software engineer. Same thing.",
+   "What what what? Who said wizard?",
+   "Wizard. Amazian word.",
+   "Wizard? Wizards don't get called at 3 AM. Engineers do.",
+   "Say wizard again. I dare you. I am always angry."
+  ],
+  "warn": [
+   "Oh my god. That wipes {answers}. I am not a meat! Why am I a meat?",
+   "Careful! You'll lose {answers}. Are you kharban?"
+  ],
+  "error": [
+   "What what what? This file is broken.",
+   "I am not a meat! And this is not a round.",
+   "That file is kharban. Super kharban.",
+   "Oh my god. Who wrote this JSON? A potato?",
+   "This file won't load. This is too much, I need Hazem."
+  ],
+  "opt_hello": [
+   "Shehab here. Angry and ready."
+  ],
+  "opt_name": [
+   "{name}. Nice name. I am still angry."
+  ],
+  "opt_light": [
+   "My eyes! Oh my god."
+  ],
+  "opt_dark": [
+   "Dark mode. Like a real engineer."
+  ],
+  "opt_system": [
+   "Let the system decide. I trust no system."
+  ],
+  "opt_large": [
+   "Big text. My glasses say thank you."
+  ],
+  "opt_compact": [
+   "Small text? Are you kharban?"
+  ],
+  "opt_normal": [
+   "Normal size. Boring. Fine."
+  ],
+  "opt_soundon": [
+   "Sound on. Leeeetsi gooo."
+  ],
+  "opt_soundoff": [
+   "Silence. I will be angry quietly."
+  ],
+  "opt_quipson": [
+   "Remarks are back. You missed me."
+  ],
+  "opt_quipsoff": [
+   "No remarks? Fine. I'll think them."
+  ],
+  "opt_talkon": [
+   "I can talk again. What what what?"
+  ],
+  "opt_timereset": [
+   "Timer reset. Time is fake anyway."
+  ]
+ }
+}

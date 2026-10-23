@@ -1,0 +1,239 @@
+{
+ "brief": {
+  "title": "the one who never lets go",
+  "look": "an original anime-style girl: chestnut bob with a side braid and a hair tuft, an ivy-leaf clip, a cream knit sweater, a plum pinafore with a gold heart-lock pendant, white knee socks, brown shoes",
+  "style": "Flat and outlined",
+  "mood": [
+   "sweet",
+   "clingy",
+   "a little creepy"
+  ],
+  "language": "English"
+ },
+ "name": "Mita",
+ "about": "NEVER stops helping",
+ "lines": {
+  "greet": [
+   "{Decisions}, just the two of us. I locked the door so nobody interrupts.",
+   "{Decisions}! I've been waiting all day. All of it. Right here.",
+   "{Decisions}. Take as long as you like. Really. Forever is fine.",
+   "{Decisions} for us today. I already cleared your schedule.",
+   "{Decisions}. Get comfy. You're not going anywhere, are you?"
+  ],
+  "estimate": [
+   "About {minutes}. I wish it were longer.",
+   "Roughly {minutes}. I'll be watching the whole time. Lovingly.",
+   "This takes {minutes}. Then you'll stay a bit, right?",
+   "That should take {minutes}. I've already planned what we do after.",
+   "Only {minutes}? Then I'll make every one count."
+  ],
+  "morning": [
+   "Good morning{cname}! I waited by the screen all night.",
+   "Morning{cname}. You came back to me. I knew you would.",
+   "Good morning{cname}. I made us a whole day of decisions.",
+   "Morning{cname}! I counted the hours. There were eleven.",
+   "Morning{cname}. Same time tomorrow? And the day after? And..."
+  ],
+  "late": [
+   "Up late{cname}? Good. Nobody else is around.",
+   "Still awake{cname}? Me too. I'm always awake.",
+   "So late{cname}. Stay a little longer. Just a little. Forever.",
+   "Midnight decisions{cname}? Just you, me, and the dark.",
+   "Can't sleep{cname}? Neither can I. Not while you're here."
+  ],
+  "back": [
+   "You're back{cname}! I didn't move. Not once.",
+   "There you are{cname}. Where were you? Never mind. You're here now.",
+   "Welcome home{cname}. I kept everything exactly how you left it.",
+   "You came back{cname}. I never doubted it. Much.",
+   "Oh, it's you{cname}! I was just rereading our old rounds. All of them."
+  ],
+  "suggest": [
+   "Round two? {other} offered to take over. I'm thinking about it. Slowly.",
+   "Another round? I could let {other} have this one... No. No, I couldn't.",
+   "Round two already? {other} keeps asking for you. I keep not passing it on.",
+   "Second round? Go on, try {other}. I'll be right here. Waiting. Watching.",
+   "Feeling like a change? {other} is lovely. I'm lovelier. Just saying."
+  ],
+  "pick": [
+   "Good choice. I'm writing it in my diary, next to your name. With hearts.",
+   "Perfect. You and I think alike. We're meant to be.",
+   "Noted. I'll never forget it. I never forget anything.",
+   "Ooh, I love that pick. I love all your picks.",
+   "Another answer for my collection. I keep them all."
+  ],
+  "skip": [
+   "Skipped? That's fine. It'll wait. I'll wait. We're good at waiting.",
+   "Later, then. Promise you'll come back for it? Promise.",
+   "Hmph. Leaving it behind. You'd never do that to me, right?",
+   "Skipped. I'll hold onto it. I'm very good at holding on.",
+   "Fine. It's not going anywhere. Neither are you."
+  ],
+  "speed": [
+   "So fast! You didn't even look at me."
+  ],
+  "second": [
+   "Changed again? It's okay. I'll love every version.",
+   "Can't decide? Cute. I'm keeping the old answers too. Just in case.",
+   "Third time? I keep a list of every answer you've ever given.",
+   "Back and forth, back and forth. Just don't change your mind about me.",
+   "Another change? You write in pencil. I write in permanent ink."
+  ],
+  "nudge": [
+   "Still thinking? Take your time. I love it when you stay.",
+   "Stuck? Skip it if you like. I'll keep it safe. With the others.",
+   "Long time on this one. Not that I'm counting. I'm counting.",
+   "Can't decide? You could stay here all night. I wouldn't mind.",
+   "Hard one? Skip it, or don't. Either way, I'm right here."
+  ],
+  "batch": [
+   "{Decisions} in one table. More time together. Wonderful.",
+   "{Decisions}, all lined up. Nobody leaves until they're done.",
+   "{Decisions} here. One by one. Slowly is fine.",
+   "{Decisions} in this one. I'll be watching every row.",
+   "{Decisions} in neat rows. I like things where I can see them."
+  ],
+  "half": [
+   "Halfway already? Slow down. I'm not ready for it to end.",
+   "Half done. Half our time together, gone. I don't like that math.",
+   "Halfway! You're doing so well. Don't rush off.",
+   "Halfway there. Let's not hurry the other half, okay?",
+   "Half done. I'm keeping the first half in my locket."
+  ],
+  "last": [
+   "The last one? Already? Can't we add more?",
+   "Last question. Answer slowly. Really slowly.",
+   "One more. Then you'll stay a bit, right? Right?",
+   "The final question. I'm not crying. Much.",
+   "Last one! Make it count. Make it last."
+  ],
+  "finish": [
+   "All done! Now we can just sit here. Together. Forever.",
+   "Finished! I'm so proud of you. I'm keeping this round forever.",
+   "Every question answered. Don't go yet, let's celebrate. For hours.",
+   "Done! That was perfect. Let's do it all again. Right now.",
+   "All done! I locked the answers in my heart. And the door. Just in case."
+  ],
+  "recap_done": [
+   "{Picked} picked{typedPart}{timePart}. Nothing left open, and I'm keeping them all."
+  ],
+  "recap_open": [
+   "{Picked} picked{typedPart}. Still waiting for you: {ids}."
+  ],
+  "recap_none": [
+   "Nothing answered yet. Still waiting, like me: {ids}."
+  ],
+  "remind": [
+   "You could copy these from my menu. Or keep them here. With me.",
+   "Your answers want to leave. Copy them from my menu... if you must.",
+   "Copy them from my menu when you're ready. No rush. Ever.",
+   "They're still here. I like them here. But my menu has a copy button.",
+   "Sending them off? Copy them from my menu. I'll pretend I didn't tell you."
+  ],
+  "copied": [
+   "Copied. They're leaving. You're not, though. Right?",
+   "Copied! Off they go. You stay.",
+   "In your clipboard. I kept a copy for myself, too.",
+   "Copied. I'll miss them. I'd miss you more.",
+   "Copied! Now hurry back. I'll be counting."
+  ],
+  "open_go": [
+   "{id} has been waiting for you. I know the feeling."
+  ],
+  "stat_r": [
+   "{r} finished together. I remember every one.",
+   "{r} so far. I pressed each one in my scrapbook.",
+   "{r} finished. Each one a little anniversary.",
+   "{r} done in this browser. This browser is ours now.",
+   "{r} finished. Let's never stop."
+  ],
+  "stat_t": [
+   "{t} in your own words. I read them every night.",
+   "You wrote {t} yourself. I memorized all of them.",
+   "{t} of your own. Your words are my favorite words.",
+   "{t} written by you. I copied them into my diary. In pink.",
+   "You wrote {t} yourself. Write me one sometime?"
+  ],
+  "stat_today": [
+   "{td} today. A whole day with me. Perfect.",
+   "{td} today, and I watched every one.",
+   "{td} today. Don't stop now.",
+   "{td} today. If anyone calls you indecisive, I'll have a word with them.",
+   "{td} today. Stay for one more?"
+  ],
+  "wake": [
+   "I wasn't asleep! I was keeping an eye on you. Both eyes.",
+   "You're back! I dreamed you left. Don't ever leave.",
+   "Mm? Oh! I only closed my eyes. I could still hear you.",
+   "Awake! Where did you go? Never mind. Don't tell me. Do tell me.",
+   "You woke me up! That means you missed me. I knew it."
+  ],
+  "poke": [
+   "Hehe, you can't keep your hands off me. Same.",
+   "Poke me again. I dare you. I double dare you.",
+   "That tickles! Don't stop. Actually, do. Actually, don't.",
+   "So much attention! Let's dance. You can't say no.",
+   "Again? You really do like me."
+  ],
+  "word": [
+   "Wizard? I don't need magic. I already have you.",
+   "The magic word! One wish. You're not allowed to wish to leave.",
+   "Wizard? I only know one spell. It keeps you here.",
+   "You said the magic word. Now you're under my spell. Forever.",
+   "Wizard? I'm better than any wizard. I never let go."
+  ],
+  "warn": [
+   "Wait. You'd erase {answers}? Our memories? Think carefully.",
+   "Clearing {answers}? I'll remember them anyway. I remember everything."
+  ],
+  "error": [
+   "That file didn't load. Did someone else make it? I don't trust it.",
+   "That one won't open. Good. It's just us anyway.",
+   "Hmm, that file's broken. Don't worry, I'd never break on you.",
+   "That didn't load. Who gave you that file? Who is it from?",
+   "Something's wrong with that file. Stay here, I'll keep you safe."
+  ],
+  "opt_hello": [
+   "Mita here. And I'm staying."
+  ],
+  "opt_name": [
+   "{name}. Lovely. I'll write it on every page."
+  ],
+  "opt_light": [
+   "So bright! I can see you better now."
+  ],
+  "opt_dark": [
+   "Dark. Cozy. Nobody can see us now."
+  ],
+  "opt_system": [
+   "Following the system? Follow me instead."
+  ],
+  "opt_large": [
+   "Bigger text. Lean in closer."
+  ],
+  "opt_compact": [
+   "Tiny letters. You'll have to sit closer."
+  ],
+  "opt_normal": [
+   "Normal size. Just how I like you."
+  ],
+  "opt_soundon": [
+   "Sound's on. Now you can hear me too."
+  ],
+  "opt_soundoff": [
+   "Silence. I can still see you, though."
+  ],
+  "opt_quipson": [
+   "Remarks back on. I have so much to tell you."
+  ],
+  "opt_quipsoff": [
+   "No more remarks? Fine. I'll just stare."
+  ],
+  "opt_talkon": [
+   "I can talk again! I missed talking to you."
+  ],
+  "opt_timereset": [
+   "Clock reset. More time with me. Lovely."
+  ]
+ }
+}

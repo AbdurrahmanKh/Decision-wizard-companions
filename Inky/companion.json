@@ -1,0 +1,228 @@
+{
+ "name": "Inky",
+ "about": "the octopus",
+ "lines": {
+  "greet": [
+   "{Decisions}. Good thing I brought eight arms.",
+   "{Decisions}? I've got a pen in every arm.",
+   "{Decisions}. Notepad out, ink ready, arms stretched.",
+   "{Decisions} on the menu. I'll take notes; you take charge.",
+   "{Decisions}. Let's make some waves."
+  ],
+  "estimate": [
+   "About {minutes}, by my count. I counted on all eight arms.",
+   "Roughly {minutes}. Less if I stop doodling.",
+   "I'd say {minutes}. The tide agrees.",
+   "Give it {minutes}. I'll keep the ink warm.",
+   "That should take {minutes}, give or take a wiggle."
+  ],
+  "morning": [
+   "Good morning{cname}! I've been up since high tide.",
+   "Morning{cname}. Fresh ink, fresh decisions.",
+   "Morning{cname}! Eight arms, zero coffee. Let's go.",
+   "Good morning{cname}. I saved you the best questions.",
+   "Rise and shine{cname}. The notepad is open."
+  ],
+  "late": [
+   "Up late{cname}? The deep sea is dark too. I don't mind.",
+   "Night owl{cname}? I'm more of a night octopus.",
+   "Burning the midnight ink{cname}?",
+   "Shh{cname}. The fish are sleeping.",
+   "Decisions at this hour{cname}? I'll write quietly."
+  ],
+  "back": [
+   "You're back{cname}! Come here, group hug.",
+   "There you are{cname}. I kept your pen warm.",
+   "Welcome back{cname}. I didn't touch anything. Much.",
+   "Look who swam in{cname}!",
+   "Back already{cname}? I was just tidying my tentacles."
+  ],
+  "suggest": [
+   "Round two? {other} has been waiting by the door.",
+   "Another round? Let {other} have a go. I'll rest my arms.",
+   "Round two? {other} keeps asking if it's their turn yet.",
+   "Feeling adventurous? {other} would love to take this one.",
+   "Second round today? I'll hand my pen to {other}."
+  ],
+  "pick": [
+   "Written down. In my own ink, so no take-backs.",
+   "Noted! That one's going on the fridge.",
+   "Got it. Underlined twice.",
+   "Good pick. I'd high-five you eight times.",
+   "Took your time, and it shows. Inked."
+  ],
+  "skip": [
+   "I'll hold that one. I have arms to spare.",
+   "Skipped. I'll keep it warm under a tentacle.",
+   "Later, then. I wrote \"come back\" on it.",
+   "Swimming past it. We'll circle back.",
+   "That one can wait in the shallows."
+  ],
+  "speed": [
+   "That was fast. I hadn't even uncapped my pen."
+  ],
+  "second": [
+   "Changed again? I'll need more ink.",
+   "Crossing that out. Again.",
+   "Back and forth, like the tide.",
+   "My notepad is mostly crossings-out now.",
+   "Another answer? I'm running out of margin."
+  ],
+  "nudge": [
+   "Still thinking? Skip it for now; I'll hold onto it.",
+   "Deep waters, this one. Skip it and come back?",
+   "Two minutes in. Want to swim past it for now?",
+   "Stuck? I can park it in a tentacle while you go on.",
+   "Take your time. Or skip it. I'm good at holding things."
+  ],
+  "batch": [
+   "{Decisions} in one table. One per arm, and some to spare.",
+   "{Decisions} in a row. I'll keep count.",
+   "{Decisions} in this one. Row by row, arm by arm.",
+   "{Decisions} here. Lucky I can hold a lot of pens.",
+   "{Decisions} lined up like a school of fish."
+  ],
+  "half": [
+   "Halfway. Four arms tired, four still going.",
+   "Half done! My notepad is half full. Or half empty. Full!",
+   "Halfway there. Time to switch pens.",
+   "Fifty percent. I'd celebrate, but my arms are busy.",
+   "Halfway! I'm proud of us. Mostly you."
+  ],
+  "last": [
+   "Last one! Arms ready for the hug.",
+   "The final question. Make it count.",
+   "One more, then confetti. I've been holding it in four arms.",
+   "Last question. My pen is trembling with excitement.",
+   "The grand finale. I put on my best spots."
+  ],
+  "finish": [
+   "All done! Group hug. This may take a while.",
+   "Finished! I'm writing \"great job\" in my biggest letters.",
+   "Every question answered. Eight high fives, coming up.",
+   "Done! I'd throw my pens in the air, but there are too many.",
+   "All done! That's a whole notepad of decisions."
+  ],
+  "recap_done": [
+   "{Picked} picked{typedPart}{timePart}. All inked, nothing open."
+  ],
+  "recap_open": [
+   "{Picked} picked{typedPart}. Still on my notepad: {ids}."
+  ],
+  "recap_none": [
+   "Nothing answered yet. Still on my notepad: {ids}."
+  ],
+  "remind": [
+   "These answers are still on my desk. Copy them from my menu.",
+   "Psst. Your answers want to go somewhere. Copy them from my menu.",
+   "Eight arms, and I still can't send these. Copy them from my menu.",
+   "Don't leave them in the deep. Copy them from my menu.",
+   "All written down. Now copy them from my menu."
+  ],
+  "copied": [
+   "Copied! Off they swim.",
+   "In your clipboard. Paste them wherever they're needed.",
+   "Copied. Neatly, in my best handwriting.",
+   "Copied! I'd wave them goodbye, with all eight.",
+   "Copied. Go on, deliver them."
+  ],
+  "open_go": [
+   "Here's {id}. I kept it safe."
+  ],
+  "stat_r": [
+   "{r} finished. I've filled a whole notepad.",
+   "{r} finished so far. I keep them all in a drawer.",
+   "{r} done in this browser. That's a lot of ink.",
+   "{r} finished. Should I start a second notepad?",
+   "{r} finished. I'm framing the best ones."
+  ],
+  "stat_t": [
+   "{t} in your own words. I copied them out neatly.",
+   "You wrote {t} yourself. My pen is impressed.",
+   "{t} of your own. I love a free thinker.",
+   "{t} typed by you. I underlined every one.",
+   "You wrote {t} yourself. That's my kind of ink."
+  ],
+  "stat_today": [
+   "{td} today. Busy, busy.",
+   "{td} today. I've switched pens twice.",
+   "{td} today. My arms are tired just watching.",
+   "{td} today. You're making waves.",
+   "{td} today. I'm out of fresh pages."
+  ],
+  "wake": [
+   "Huh? I wasn't asleep. I was resting my arms.",
+   "Oh! You're back. I dreamed about very long scrolls.",
+   "Mm? Right. Decisions. Where did I put my pen?",
+   "Awake! All eight arms reporting for duty.",
+   "Zzz... I mean, hello. I was guarding the notepad."
+  ],
+  "poke": [
+   "That tickles! All eight of them!",
+   "Hey! Those are my writing arms!",
+   "Okay, okay, I'll dance!",
+   "Careful, I squirt ink when I giggle.",
+   "Wiggle time!"
+  ],
+  "word": [
+   "Wizard? I'm an octopus. But I can do sparkles.",
+   "You typed the magic word. Here's some ink magic.",
+   "A wizard? Me? I'm flattered and a bit damp.",
+   "Magic word received. Sparkles, eight at a time.",
+   "Not a wizard, but I'll sparkle anyway."
+  ],
+  "warn": [
+   "Careful! That wipes {answers}. Even I can't ink them back.",
+   "Wait! {answers} would wash away. Are you sure?"
+  ],
+  "error": [
+   "That file is a tangle, and I know tangles.",
+   "Blub. That file doesn't read right.",
+   "This one's smudged. I can't make out a word.",
+   "That's not a round. That's a doodle.",
+   "Something's missing in there. A bracket, maybe. Or a fish."
+  ],
+  "opt_hello": [
+   "Inky here. Pens are ready."
+  ],
+  "opt_name": [
+   "Nice to meet you, {name}. I'll write that down."
+  ],
+  "opt_light": [
+   "Bright! I'm used to the deep sea."
+  ],
+  "opt_dark": [
+   "Ah, cozy. Like home."
+  ],
+  "opt_system": [
+   "Following the system. Smart."
+  ],
+  "opt_large": [
+   "Big letters. Easier on my eyes too."
+  ],
+  "opt_compact": [
+   "Small print. I'll lean in."
+  ],
+  "opt_normal": [
+   "Back to normal size. Comfy."
+  ],
+  "opt_soundon": [
+   "Sound's back! Blub."
+  ],
+  "opt_soundoff": [
+   "Quiet mode. I'll wiggle silently."
+  ],
+  "opt_quipson": [
+   "Remarks are back on. I've been saving some."
+  ],
+  "opt_quipsoff": [
+   "No remarks. My lips are sealed."
+  ],
+  "opt_talkon": [
+   "I can talk again! I wrote it all down meanwhile."
+  ],
+  "opt_timereset": [
+   "Clock reset. Fresh page."
+  ]
+ }
+}
