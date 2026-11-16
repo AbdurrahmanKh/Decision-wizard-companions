@@ -16,6 +16,13 @@
    "Give it {minutes}. I'll keep the ink warm.",
    "That should take {minutes}, give or take a wiggle."
   ],
+  "estimate_pace": [
+   "About {minutes}, at your pace. I keep your times in ink.",
+   "{minutes} at your swimming speed.",
+   "Going by your last rounds, {minutes}. It's all in my notepad.",
+   "About {minutes}. I timed you before, one arm per question.",
+   "{minutes}, at your pace. Give or take a doodle."
+  ],
   "morning": [
    "Good morning{cname}! I've been up since high tide.",
    "Morning{cname}. Fresh ink, fresh decisions.",
@@ -81,6 +88,18 @@
    "{Decisions} in this one. Row by row, arm by arm.",
    "{Decisions} here. Lucky I can hold a lot of pens.",
    "{Decisions} lined up like a school of fish."
+  ],
+  "hat": [
+   "Not the hat's pick. I'll note it in the margin.",
+   "The hat pointed one way. You swam the other.",
+   "Outvoted the hat. Writing that down.",
+   "Off the hat's course. Bold swimming.",
+   "The hat's pick drifts past. Yours gets the ink."
+  ],
+  "knockout": [
+   "{option} is swept out to sea.",
+   "{option}, crossed out in ink.",
+   "Bye, {option}. Off with the tide."
   ],
   "half": [
    "Halfway. Four arms tired, four still going.",

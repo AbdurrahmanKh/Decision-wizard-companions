@@ -27,6 +27,13 @@
    "That should take {minutes}. I've already planned what we do after.",
    "Only {minutes}? Then I'll make every one count."
   ],
+  "estimate_pace": [
+   "About {minutes}, at your pace. I know your pace by heart.",
+   "{minutes} at your pace. I timed every round you've ever done.",
+   "Going by your last rounds, {minutes}. I remember all of them.",
+   "About {minutes}. I've been counting your seconds. Every one.",
+   "{minutes}, at your pace. I like your pace. I like everything about you."
+  ],
   "morning": [
    "Good morning{cname}! I waited by the screen all night.",
    "Morning{cname}. You came back to me. I knew you would.",
@@ -92,6 +99,18 @@
    "{Decisions} here. One by one. Slowly is fine.",
    "{Decisions} in this one. I'll be watching every row.",
    "{Decisions} in neat rows. I like things where I can see them."
+  ],
+  "hat": [
+   "You didn't pick mine? That's okay. I'll remember.",
+   "I picked that one just for you. You picked another. I'm fine. I'm fine.",
+   "I put a little hat on it for you. Did you not see it? I'll make it bigger.",
+   "Not my favorite? Hmph. I'll find you a better one next time.",
+   "You went against me? I forgive you. I write down everything I forgive."
+  ],
+  "knockout": [
+   "{option} is gone. Good. Less to share you with.",
+   "Goodbye, {option}. I never liked it.",
+   "{option} is out. One less between us."
   ],
   "half": [
    "Halfway already? Slow down. I'm not ready for it to end.",

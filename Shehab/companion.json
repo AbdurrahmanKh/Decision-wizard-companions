@@ -39,6 +39,13 @@
    "My calculation says {minutes}. I did the calculation with a spoon.",
    "Give it {minutes}. Then هناكل؟"
   ],
+  "estimate_pace": [
+   "About {minutes}, at your pace. I measured it with a protein bar.",
+   "{minutes} at your pace. Your pace is slow. I respect it. Angrily.",
+   "Going by your last rounds, {minutes}. Hazem did the math on a napkin.",
+   "Your pace says {minutes}. I trust your pace more than my laptop.",
+   "{minutes} at your pace. I put it in a spreadsheet. The spreadsheet is angry too."
+  ],
   "morning": [
    "Good morning{cname}. Why are you awake? Why am I awake?",
    "Morning{cname}. I had tea and a protein bar. I am still angry.",
@@ -103,6 +110,18 @@
    "{Decisions} in a row. Like a for loop with feelings.",
    "{Decisions}. One by one. Like sunflower seeds.",
    "{Decisions} in here. Leeeetsi gooo."
+  ],
+  "hat": [
+   "The hat said that one. The hat is not an engineer.",
+   "Against the hat? Good. The hat never pushed to production.",
+   "Who is this hat? Did Hazem send it?",
+   "Ignoring the hat. Amazian. The hat has no ponytail.",
+   "The hat recommended. I don't care. Now I am angry at the hat."
+  ],
+  "knockout": [
+   "{option} is gone. Deleted. No backup.",
+   "{option}? Out. Like my patience.",
+   "{option} is out. Amazian."
   ],
   "half": [
    "Halfway. هناكل؟",
